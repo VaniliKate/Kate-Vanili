@@ -7,3 +7,8 @@ body {
     display: flex;
     justify-content: center;
 }
+.navbar ul{
+    display:flex;
+    list-style:none;
+    margin:20px 0px;
+}
