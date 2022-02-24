@@ -6,6 +6,10 @@ body {
 .navbar{
     display: flex;
     justify-content: center;
+    align-items: center;
+    background-color: white;
+    position: sticky;
+    top: 0;
 }
 .navbar ul{
     display:flex;
