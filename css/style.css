@@ -61,12 +61,15 @@ body {
 #about{
     display:flex;
     flex-direction: column;
+    box-sizing:border-box;
+    padding: 20px;
+    margin-bottom: 50px;
 
 }
 #pic{
     display: flex;
 }
 #pic img{
-    width: 575px;
-    height: 400px;
+    width: 400px;
+    height: 575px;
 }
