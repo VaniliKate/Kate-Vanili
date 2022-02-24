@@ -92,3 +92,13 @@ body {
     color: white;
 
 }
+#contact{
+    display:flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+.form{
+    
+}
