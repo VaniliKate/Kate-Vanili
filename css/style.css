@@ -39,4 +39,15 @@ body {
     height:840px;
     justify-content: center;
     align-items: center;
+    color: white;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    border: 10px solid white;
+    align-items: center;
+    position: absolute;
+    top: 30%;
+    right: 10%;
+
 }
