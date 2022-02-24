@@ -7,7 +7,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: white;
+    background-color:grey;
     position: sticky;
     top: 0;
 }
@@ -26,4 +26,9 @@ body {
     color: aqua;
     padding: 8px 25px;
     transition: all .5s ease;
+}
+.navbar ul li a:hover{
+    background-color:white;
+    color:black;
+    box-shadow: 0 0 10px white;
 }
