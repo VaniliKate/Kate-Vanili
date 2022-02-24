@@ -86,3 +86,9 @@ body {
     color:white;
 
 }
+#portfolio{
+    display: flex;
+    flex-direction: column;
+    color: white;
+
+}
