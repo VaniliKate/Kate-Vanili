@@ -1,6 +1,6 @@
 #home{
     height:820px;
-    width :300px;
+    width :fit-content;
 }
 .headings{
     font-size: 1.7rem;
