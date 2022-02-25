@@ -95,10 +95,11 @@ body {
     flex-direction: column;
     color: white;
     text-align: center;
-    font-size:xx-large;
-    font-weight: bold;
-    top:10%;
 
+}
+#list{
+    font-weight: bold;
+    font-size: xx-large;
 }
 #contact{
     display:flex;
