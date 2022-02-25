@@ -4,6 +4,13 @@ body {
     box-sizing: border-box;
     background-color:yellow;
 }
+.font{
+    font-family: Kalam;
+}
+p{
+    font-family: Kalam;
+}
+
 .slide-right {
     width: 100%;
     overflow: hidden;
