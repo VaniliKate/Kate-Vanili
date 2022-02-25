@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color:blueviolet;
+    background-color:coral;
 }
 #space {
     font-family: century;
@@ -85,12 +85,14 @@ body {
     margin-bottom: 50px;
 
 }
+
+
 #pic{
     display: flex;
 }
 #pic img{
     width: 400px;
-    height: 575px;
+    height: 400px;
     border-radius: 50%;
 }
 #me h1{
