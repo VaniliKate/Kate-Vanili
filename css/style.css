@@ -73,6 +73,9 @@ body {
     width: 400px;
     height: 575px;
 }
+#me h1{
+    text-align: center;
+}
 #intro{
     display: flex;
     flex-direction: column;
