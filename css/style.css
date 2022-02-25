@@ -94,9 +94,10 @@ body {
     display: flex;
     flex-direction: column;
     color: white;
-    text-align: justify;
-    font-size:x-large;
+    text-align: center;
+    font-size:xx-large;
     font-weight: bold;
+    top:10%;
 
 }
 #contact{
