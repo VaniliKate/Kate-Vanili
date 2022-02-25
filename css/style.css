@@ -78,6 +78,7 @@ body {
     flex-direction: column;
     text-align: justify;
     padding: 10px;
+    color: white;
 
 }
 #intro h2{
