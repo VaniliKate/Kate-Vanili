@@ -4,6 +4,15 @@ body {
     box-sizing: border-box;
     background-color:blueviolet;
 }
+#space {
+    font-family: century;
+    font-weight: bold;
+    font-size: xx-large;
+    float: left;
+    color: black;
+
+}
+
 .navbar{
     display: flex;
     justify-content: center;
@@ -72,6 +81,7 @@ body {
 #pic img{
     width: 400px;
     height: 575px;
+    border-radius: 50%;
 }
 #me h1{
     text-align: center;
@@ -106,7 +116,4 @@ body {
     box-sizing: border-box;
     background-color: black;
     color: white;
-}
-.form{
-    
 }
