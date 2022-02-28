@@ -34,7 +34,14 @@ p{
      }
   }
   
+  #space {
+    font-family: Kalam;
+    font-weight: bold;
+    font-size: xx-large;
+    float: left;
+    color: black;
 
+}
 
 .navbar{
     display: flex;
@@ -99,14 +106,7 @@ p{
     text-align: center;
     margin: 40px 0px;
 }
-#space {
-    font-family: Kalam;
-    font-weight: bold;
-    font-size: xx-large;
-    float: left;
-    color: black;
 
-}
 #about{
     display:flex;
     flex-direction: column;
