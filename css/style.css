@@ -142,7 +142,8 @@ p{
 
 }
 #education{
-    
+    border: solid 2px;
+    border-color: black;
 }
 #portfolio{
     display: flex;
