@@ -35,11 +35,12 @@ p{
   }
   
 #space {
-    font-family: century;
+    font-family: Kalam;
     font-weight: bold;
     font-size: xx-large;
     float: left;
     color: black;
+    border: solid;
 
 }
 
